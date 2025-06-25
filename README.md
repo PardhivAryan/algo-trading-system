@@ -30,8 +30,8 @@ This project implements a basic algo-trading strategy using:
 - `README.md` – project overview
 
 ## Video Demo
-- [Strategy and Code Flow](your_google_drive_or_youtube_link_1)
-- [Console and Google Sheets Output](your_google_drive_or_youtube_link_2)
+- [Strategy, Code Flow,Console and Google Sheets Output](https://drive.google.com/file/d/19xJKUgYTkEMKTeGYdqOb-i2_vOPti_3R/view?usp=sharing)
+  
 
 
 
